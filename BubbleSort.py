@@ -4,7 +4,7 @@ import random
 __author__ = 'jeff'
 
 # The length of the list that will be generated with random numbers:
-list_length = 15000
+list_length = 5
 mylist = []
 
 # Generate a completely random list of numbers:
